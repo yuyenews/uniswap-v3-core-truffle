@@ -28,5 +28,8 @@
     "uniswap",
     "uniswap-v3-core"
   ],
-  "description": "🦄 Core smart contracts of Uniswap V3"
+  "description": "🦄 Core smart contracts of Uniswap V3",
+  "dependencies": {
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
 }
